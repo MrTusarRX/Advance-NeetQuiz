@@ -181,13 +181,16 @@
         }
         
         .watermark {
-           position: absolute;
-           top: 50%;
+           position: fixed;
+           bottom: 20px; 
            left: 50%;
-           transform: translate(-50%, -50%);
+           transform: translateX(-50%); 
            text-align: center;
            font-size: 12px;
            color: #666;
+           z-index: 1000; 
+           pointer-events: none; 
+           width: 100%; 
         }
 
         
