@@ -1,6 +1,6 @@
 # Quiz Adventure - An Interactive Quiz Application
 
-![Quiz Adventure Screenshot](https://i.imgur.com/Jj6T85Z.png)
+![Quiz Adventure Screenshot](https://banglarbhumi.gov.in/BanglarBhumi/images/Bhumi2.gif)
 
 ## Description
 
@@ -31,9 +31,9 @@ Quiz Adventure is an interactive, mobile-friendly quiz application that fetches 
    ```bash
    git clone https://github.com/MrTusarRX/quiz-adventure.git
    ```
-
-   1.   Open index.html in your web browser.
-   2. Alternatively, use the live version hosted on GitHub Pages.
+   
+1. Open index.html in your web browser.
+2. Alternatively, use the live version hosted on GitHub Pages.
 
 Customization
 
