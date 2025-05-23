@@ -32,8 +32,8 @@ Quiz Adventure is an interactive, mobile-friendly quiz application that fetches 
    git clone https://github.com/MrTusarRX/quiz-adventure.git
    ```
    
-1. Open index.html in your web browser.
-2. Alternatively, use the live version hosted on GitHub Pages.
+2. Open index.html in your web browser.
+3. Alternatively, use the live version hosted on GitHub Pages.
 
 Customization
 
@@ -61,6 +61,5 @@ Credits
 Developer: [Tusar Khan](https://github.com/MrTusarRX)
 
 License : [MIT License](https://github.com/MrTusarRX/Advance-NeetQuiz?tab=MIT-1-ov-file)
-Live Demo
 
-[View Live Demo](https://mrtusarrx.github.io/Advance-NeetQuiz/)
+Live Demo : [View Live Demo](https://mrtusarrx.github.io/Advance-NeetQuiz/)
